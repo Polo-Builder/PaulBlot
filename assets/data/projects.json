@@ -1,0 +1,1705 @@
+{
+  "projects": [
+    {
+      "id": "hex-harmony",
+      "name": "Hex Harmony",
+      "category": "jeux",
+      "image": "hex-harmony",
+      "tag": [
+        "Jeu de réflexion · Disponible sur Steam",
+        "Puzzle Game · Available on Steam"
+      ],
+      "summary": [
+        "Un jeu de puzzle et de gestion où chaque tuile change l’équilibre entre nature et humanité.",
+        "A puzzle and management game where every tile changes the balance between nature and humanity."
+      ],
+      "role": [
+        "Développeur indépendant",
+        "Independent developer"
+      ],
+      "context": [
+        "Pixel Builder Studio - mon propre studio",
+        "Pixel Builder Studio - my own studio"
+      ],
+      "date": "2025–2026",
+      "intro": [
+        "Hex Harmony est mon jeu indépendant, disponible sur Steam. Chaque île forme un puzzle : le joueur place ses tuiles, observe leurs interactions et cherche à faire cohabiter les humains et la nature. Les cartes-technologie apportent de nouvelles possibilités, dans une expérience sans pression de temps.",
+        "Hex Harmony is my independent game, available on Steam. Each island is a puzzle: players place tiles, observe their interactions and find a balance between humans and nature. Technology cards open up new possibilities, in an experience without time pressure."
+      ],
+      "sections": [
+        [
+          [
+            "Un système, plusieurs équilibres",
+            "One system, several balances"
+          ],
+          [
+            "Forêts, villages et faune partagent un espace limité. Le jeu associe la lecture immédiate d’un city-builder à des niveaux de puzzle : construire modifie les possibilités des tours suivants.",
+            "Forests, villages and wildlife share limited space. The game combines the visual clarity of a city builder with puzzle levels: each placement changes the options that follow."
+          ]
+        ],
+        [
+          [
+            "Développer et faire évoluer le jeu",
+            "Developing and iterating"
+          ],
+          [
+            "Je développe ce projet personnel avec Unity et C#. Les évolutions documentées dans le journal de développement concernent notamment les règles, la progression, l’interface et les retours de playtests.",
+            "I develop this personal project with Unity and C#. The development journal documents work on the rules, progression, interface and playtest feedback."
+          ]
+        ]
+      ],
+      "links": [
+        [
+          "https://store.steampowered.com/app/4491420/Hex_Harmony/",
+          "Découvrir sur Steam",
+          "View on Steam"
+        ],
+        [
+          "https://polobuilder.itch.io/hex-harmony",
+          "Jouer à la démo sur itch.io",
+          "Play the demo on itch.io"
+        ],
+        [
+          "https://linktr.ee/HexHarmony",
+          "Suivre le projet",
+          "Follow the project"
+        ]
+      ],
+      "status": [
+        "Disponible sur Steam",
+        "Available on Steam"
+      ],
+      "steam": "https://store.steampowered.com/app/4491420/Hex_Harmony/",
+      "preview": "hex-harmony.mp4",
+      "gallery": [
+        {
+          "image": "hex-harmony-gameplay-1",
+          "caption": [
+            "Construire un équilibre sur une île hexagonale.",
+            "Building a balance on a hexagonal island."
+          ]
+        },
+        {
+          "image": "hex-harmony-gameplay-2",
+          "caption": [
+            "Explorer les mécaniques d’un autre environnement.",
+            "Exploring the mechanics of another environment."
+          ]
+        },
+        {
+          "image": "hex-harmony-gameplay-3",
+          "caption": [
+            "Utiliser les cartes-technologie pour faire évoluer le plateau.",
+            "Using technology cards to change the board."
+          ]
+        }
+      ],
+      "release_date": "2026-07-22",
+      "release_date_source": "https://store.steampowered.com/app/4491420/Hex_Harmony/",
+      "cover_image": "hex-harmony-hero",
+      "cover_background": "#79afd0",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/hex-harmony.webp",
+          "en": "assets/images/hex-harmony.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.112
+        },
+        "alt": "Hex Harmony"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/hex-harmony-hero.webp",
+          "en": "assets/images/hex-harmony-hero.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1
+        },
+        "alt": "Hex Harmony"
+      },
+      "Description_Projet_Capsule": [
+        "Rétablissez l'équilibre entre la nature et l'humain sur des petites îles composées d'hexagones.",
+        "Restore the balance between nature and humanity on small islands made up of hexagonal tiles."
+      ],
+      "Description_Projet_Carroussel": [
+        "Rétablissez l'équilibre entre la nature et l'humain sur des petites îles composées d'hexagones.",
+        "Restore the balance between nature and humanity on small islands made up of hexagonal tiles."
+      ],
+      "company": [
+        "Paul Blot",
+        "Paul Blot"
+      ],
+      "card_title": [
+        "Hex Harmony",
+        "Hex Harmony"
+      ],
+      "detail_page": {
+        "overview": [
+          "J’ai développé Hex Harmony entièrement en solo, de l’idée de départ jusqu’à sa sortie sur Steam.\n\nC’est un jeu qui mélange puzzle et gestion, dans lequel il faut trouver le bon équilibre entre la nature et l'humain sur de petites îles composées d’hexagones.\n\nLe principe est simple : on joue des cartes-technologie pour transformer les cases de l’île. Chaque modification a des conséquences, et il faut réfléchir aux interactions entre les différentes cases pour trouver le bon équilibre. De nouvelles mécaniques apparaissent progressivement au fil des niveaux.\n\nJ’ai voulu créer un jeu calme, avec une direction artistique low-poly et une ambiance relaxante. Il n’y a pas de chronomètre, chacun peut prendre son temps, tester différentes combinaisons et avancer à son rythme.\n\nLe jeu est actuellement disponible en accès anticipé sur Steam.",
+          "I developed Hex Harmony entirely on my own, from the initial idea through to its release on Steam.\n\nIt blends puzzle-solving and management, challenging players to find the right balance between nature and humans on small islands made up of hexagons.\n\nThe idea is simple: you play technology cards to transform the island’s tiles. Every change has consequences, and you need to consider how the different tiles interact to find the right balance. New mechanics are introduced gradually as you progress through the levels.\n\nI wanted to create a calm game, with a low-poly art style and a relaxing atmosphere. There is no timer, so everyone can take their time, try different combinations and progress at their own pace.\n\nThe game is currently available in Early Access on Steam."
+        ],
+        "overview_sections": [],
+        "role": [
+          "Je développe ce projet personnel avec Unity et C#. Les évolutions documentées dans le journal de développement concernent notamment les règles, la progression, l’interface et les retours de playtests.",
+          "I develop this personal project with Unity and C#. The development journal documents work on the rules, progression, interface and playtest feedback."
+        ],
+        "role_sections": [],
+        "show_role": false,
+        "youtube_video": "6cuSG1oLy6I"
+      }
+    },
+    {
+      "id": "polo-builder",
+      "name": "Polo Builder",
+      "category": "contenus",
+      "image": "polo-builder",
+      "tag": [
+        "Devlog · Développement indépendant",
+        "Devlog · Independent development"
+      ],
+      "summary": [
+        "Les coulisses de mes projets, et le développement de Hex Harmony raconté en vidéo.",
+        "Behind the scenes of my projects, documenting the development of Hex Harmony on video."
+      ],
+      "role": [
+        "Créateur de la chaîne",
+        "Channel creator"
+      ],
+      "context": [
+        "YouTube · Twitch",
+        "YouTube · Twitch"
+      ],
+      "date": "2025–2026",
+      "intro": [
+        "J’ai commencé à faire des vidéos en 2025 sur ma chaîne Polo Builder. Dans mes devlogs, je partage le développement de mes jeux et je décris mon processus créatif, des premières idées aux choix qui prennent forme dans le jeu.",
+        "I started making videos in 2025 on my Polo Builder channel. In my devlogs, I share the development of my games and describe my creative process, from the first ideas to the decisions that take shape in the game."
+      ],
+      "sections": [
+        [
+          [
+            "Montrer le travail en cours",
+            "Sharing work in progress"
+          ],
+          [
+            "Le format vidéo permet de montrer le jeu en mouvement et de raconter les étapes de sa création. La chaîne accompagne le projet, du développement aux nouvelles versions.",
+            "Video makes it possible to show the game in motion and tell the story of its creation. The channel follows the project through development and new releases."
+          ]
+        ]
+      ],
+      "links": [
+        [
+          "https://www.youtube.com/@PoloBuilder",
+          "Ma chaîne YouTube",
+          "My YouTube channel"
+        ],
+        [
+          "https://www.twitch.tv/polobuilderlive",
+          "Mes lives sur Twitch",
+          "My Twitch livestreams"
+        ]
+      ],
+      "release_date": "2025",
+      "release_date_source": "CV 2026 : lancement de la chaîne pendant la période de développement indépendant 2025–2026 ; année uniquement.",
+      "card_title": [
+        "Polo Builder - chaîne YouTube",
+        "Polo Builder - YouTube channel"
+      ],
+      "cover_image": "polo-builder-featured",
+      "cover_background": "#f3dce4",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/polo-builder.webp",
+          "en": "assets/images/polo-builder.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 25,
+          "zoom": 1.35
+        },
+        "alt": "Polo Builder"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/polo-builder.webp",
+          "en": "assets/images/polo-builder.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 35,
+          "zoom": 1.45
+        },
+        "alt": "Polo Builder"
+      },
+      "Description_Projet_Capsule": [
+        "Je raconte en vidéo les coulisses de mes projets et du développement de Hex Harmony.",
+        "I share behind-the-scenes videos about my projects and the development of Hex Harmony."
+      ],
+      "Description_Projet_Carroussel": [
+        "Je raconte en vidéo les coulisses de mes projets et du développement de Hex Harmony.",
+        "I share behind-the-scenes videos about my projects and the development of Hex Harmony."
+      ],
+      "company": [
+        "Polo Builder",
+        "Polo Builder"
+      ],
+      "detail_page": {
+        "layout": "video-channel",
+        "show_overview": true,
+        "show_role": false,
+        "show_gallery": false,
+        "overview": [
+          "J’ai commencé à faire des vidéos en 2025 sur ma chaîne Polo Builder. Dans mes devlogs, je partage le développement de mes jeux et je décris mon processus créatif, des premières idées aux choix qui prennent forme dans le jeu.",
+          "I started making videos in 2025 on my Polo Builder channel. In my devlogs, I share the development of my games and describe my creative process, from the first ideas to the decisions that take shape in the game."
+        ],
+        "started_in": 2025,
+        "shorts_intro": [
+          "Je publie aussi des Shorts : des timelapses de création et des présentations de jeux que j’aime bien. Un format plus court pour montrer ce que je fais et partager mes découvertes.",
+          "I also publish Shorts: creative timelapses and introductions to games I enjoy. A shorter format for showing what I make and sharing my discoveries."
+        ],
+        "live_intro": [
+          "Sur Twitch, je développe mes jeux en live. C’est l’occasion de suivre mon travail au fil des sessions et d’échanger pendant la création.",
+          "On Twitch, I develop my games live. You can follow my work session by session and chat during the creative process."
+        ],
+        "youtube_videos": [
+          "FnOqYsZOxaE",
+          "tOS7tbKF-L4",
+          "0hMRMGACa2I"
+        ],
+        "youtube_shorts": [
+          "j7vI5Iqzbfw",
+          "YPPjsucn7r4",
+          "WyCgY3vJfqk",
+          "Rl-ofgKvLJM",
+          "bBYQeJS5eQg"
+        ],
+        "twitch_url": "https://www.twitch.tv/polobuilderlive"
+      }
+    },
+    {
+      "id": "need-for-touring",
+      "name": "Need For Touring",
+      "category": "jeux",
+      "image": "need-for-touring",
+      "tag": [
+        "Jeu mobile · Lead Developer",
+        "Mobile game · Lead Developer"
+      ],
+      "summary": [
+        "Course automobile, cartes stratégiques et pilotage technique d’une équipe de cinq développeurs.",
+        "Car racing, strategic cards and technical leadership for a team of five developers."
+      ],
+      "role": [
+        "Lead Developer",
+        "Lead Developer"
+      ],
+      "context": [
+        "Projet réalisé avec Carfooly",
+        "Project created with Carfooly"
+      ],
+      "date": "2025",
+      "intro": [
+        "Need For Touring est un jeu de course mobile free-to-play combinée à un jeu de cartes stratégique. Les joueurs peuvent concourir en temps réel, collectionner des voitures uniques et participer à divers tournois pour gagner des prix exclusifs.",
+        "Need For Touring is a free-to-play mobile racing game combined with a strategic card game. Players can compete in real time, collect unique cars and take part in tournaments to win exclusive prizes."
+      ],
+      "sections": [
+        [
+          [
+            "Lead technique du projet",
+            "Technical leadership"
+          ],
+          [
+            "J’ai assuré l’architecture globale du jeu, en définissant les fondations techniques et en garantissant leur cohérence tout au long du développement.",
+            "I was responsible for the game’s overall architecture, defining its technical foundations and ensuring consistency throughout development."
+          ]
+        ],
+        [
+          [
+            "Gestion de projet",
+            "Project management"
+          ],
+          [
+            "Mise en place d’une méthodologie de production adaptée à l’équipe. Organisation des sprints, suivi des deadlines, priorisation des tâches.",
+            "Established a production methodology suited to the team. Organised sprints, tracked deadlines and prioritised tasks."
+          ]
+        ],
+        [
+          [
+            "Encadrement d’équipe",
+            "Team mentoring"
+          ],
+          [
+            "Formation, accompagnement et suivi des développeurs juniors et alternants. Relecture de code, transmission de bonnes pratiques et montée en compétence.",
+            "Trained, mentored and supported junior developers and apprentices. Reviewed code, shared good practices and helped the team develop their skills."
+          ]
+        ],
+        [
+          [
+            "Implémentation gameplay & UI",
+            "Gameplay & UI implementation"
+          ],
+          [
+            "J’ai développé de nombreuses fonctionnalités clés, ainsi que l’interface utilisateur du jeu.",
+            "I developed many key features as well as the game’s user interface."
+          ]
+        ],
+        [
+          [
+            "Optimisation server & déploiement mobile",
+            "Server optimisation & mobile deployment"
+          ],
+          [
+            "Travail d’optimisation des performances pour assurer une fluidité optimale sur un large éventail d’appareils.",
+            "Worked on performance optimisation to keep gameplay smooth across a wide range of devices."
+          ]
+        ]
+      ],
+      "links": [
+        [
+          "https://play.google.com/store/apps/details?id=com.carfooly.needfortouring&hl=fr",
+          "Google Play",
+          "Google Play"
+        ],
+        [
+          "https://apps.apple.com/fr/app/need-for-touring/id6664070681",
+          "App Store",
+          "App Store"
+        ]
+      ],
+      "gallery": "need-gameplay",
+      "release_date": "2025",
+      "release_date_source": "CV 2026 et historique public App Store : https://apps.apple.com/fr/app/need-for-touring/id6664070681",
+      "cover_image": "need-for-touring-featured",
+      "cover_background": "#59349a",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/need-for-touring.webp",
+          "en": "assets/images/need-for-touring.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 40,
+          "zoom": 1.335
+        },
+        "alt": "Need For Touring"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/need-for-touring.webp",
+          "en": "assets/images/need-for-touring.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 40,
+          "zoom": 1.32
+        },
+        "alt": "Need For Touring"
+      },
+      "Description_Projet_Capsule": [
+        "Défiez vos amis dans un jeu de cartes stratégique et collectionnez des voitures et des pilotes.",
+        "Challenge your friends in a strategic card game and collect cars and drivers."
+      ],
+      "Description_Projet_Carroussel": [
+        "Défiez vos amis dans un jeu de cartes stratégique et collectionnez des voitures et des pilotes.",
+        "Challenge your friends in a strategic card game and collect cars and drivers."
+      ],
+      "company": [
+        "Carfooly",
+        "Carfooly"
+      ],
+      "card_title": [
+        "Need For Touring",
+        "Need For Touring"
+      ],
+      "detail_page": {
+        "overview": [
+          "Need For Touring est un jeu de course mobile free-to-play combinée à un jeu de cartes stratégique. Les joueurs peuvent concourir en temps réel, collectionner des voitures uniques et participer à divers tournois pour gagner des prix exclusifs.",
+          "Need For Touring is a free-to-play mobile racing game combined with a strategic card game. Players can compete in real time, collect unique cars and take part in tournaments to win exclusive prizes."
+        ],
+        "overview_sections": [],
+        "role": [
+          "En tant que Lead Developer, j’ai supervisé et contribué au développement technique du projet, tout en encadrant une équipe de 5 personnes.",
+          "As Lead Developer, I supervised and contributed to the project’s technical development while leading a team of five people."
+        ],
+        "role_sections": [
+          [
+            [
+              "Lead technique du projet",
+              "Technical leadership"
+            ],
+            [
+              "J’ai assuré l’architecture globale du jeu, en définissant les fondations techniques et en garantissant leur cohérence tout au long du développement.",
+              "I was responsible for the game’s overall architecture, defining its technical foundations and ensuring consistency throughout development."
+            ]
+          ],
+          [
+            [
+              "Gestion de projet",
+              "Project management"
+            ],
+            [
+              "Mise en place d’une méthodologie de production adaptée à l’équipe. Organisation des sprints, suivi des deadlines, priorisation des tâches.",
+              "Established a production methodology suited to the team. Organised sprints, tracked deadlines and prioritised tasks."
+            ]
+          ],
+          [
+            [
+              "Encadrement d’équipe",
+              "Team mentoring"
+            ],
+            [
+              "Formation, accompagnement et suivi des développeurs juniors et alternants. Relecture de code, transmission de bonnes pratiques et montée en compétence.",
+              "Trained, mentored and supported junior developers and apprentices. Reviewed code, shared good practices and helped the team develop their skills."
+            ]
+          ],
+          [
+            [
+              "Implémentation gameplay & UI",
+              "Gameplay & UI implementation"
+            ],
+            [
+              "J’ai développé de nombreuses fonctionnalités clés, ainsi que l’interface utilisateur du jeu.",
+              "I developed many key features as well as the game’s user interface."
+            ]
+          ],
+          [
+            [
+              "Optimisation server & déploiement mobile",
+              "Server optimisation & mobile deployment"
+            ],
+            [
+              "Travail d’optimisation des performances pour assurer une fluidité optimale sur un large éventail d’appareils.",
+              "Worked on performance optimisation to keep gameplay smooth across a wide range of devices."
+            ]
+          ]
+        ],
+        "title_image": "assets/images/need-for-touring-title.png",
+        "availability": [
+          "Disponible gratuitement sur Android et iOS.",
+          "Available for free on Android and iOS."
+        ],
+        "download_links_target": "_blank",
+        "title_image_position": "after_download_links",
+        "title_image_width": "70%",
+        "role_separator": false,
+        "title_image_alignment": "site-center",
+        "show_gallery": false,
+        "role_sections_inline": true
+      }
+    },
+    {
+      "id": "f1-mobile-racing",
+      "name": "F1 Mobile Racing",
+      "category": "jeux",
+      "image": "f1-mobile-racing",
+      "tag": [
+        "Jeux mobile · Gameplay Programmer",
+        "Mobile Games · Gameplay Programmer"
+      ],
+      "summary": [
+        "Développement de fonctionnalités de gameplay sur le jeu mobile d’Electronic Arts.",
+        "Gameplay feature development for Electronic Arts’ mobile racing game."
+      ],
+      "role": [
+        "Gameplay Developer",
+        "Gameplay Developer"
+      ],
+      "context": [
+        "Projet réalisé avec Eden Games et Electronic Arts",
+        "Project created with Eden Games and Electronic Arts"
+      ],
+      "date": "2023–2024",
+      "intro": [
+        "F1 Mobile Racing est un jeu de course free-to-play sur iOS et Android qui offre une expérience authentique de la Formule 1. Plongez dans l'univers des écuries, des pilotes et des circuits. Personnalisez votre voiture grâce à un éditeur riche en options et améliorez ses performances en gagnant des cartes. Affrontez d'autres pilotes en ligne pour grimper dans les classements et prouver vos talents de pilote.",
+        "F1 Mobile Racing is a free-to-play racing game on iOS and Android offering an authentic Formula 1 experience. Dive into the world of teams, drivers and circuits. Customise your car with a feature-rich editor and improve its performance by earning cards. Race other drivers online to climb the rankings and prove your driving skills."
+      ],
+      "sections": [
+        {
+          "title": [
+            "Mon rôle",
+            "My role"
+          ],
+          "text": [
+            "En tant que développeur gameplay sur F1 Mobile Racing, j'ai contribué à enrichir l'expérience utilisateur en travaillant sur plusieurs aspects du jeu.",
+            "As a gameplay developer on F1 Mobile Racing, I helped enhance the player experience by working on several aspects of the game."
+          ]
+        },
+        {
+          "title": [
+            "Système de progression (RnD)",
+            "Progression system (RnD)"
+          ],
+          "text": [
+            "En collaboration avec les game designers, j’ai participé à la création du système de progression appelé \"RnD\" (Recherche et Développement). Ce système permet aux joueurs de débloquer de nouveaux véhicules, pilotes et améliorations, renforçant ainsi la dimension stratégique et la motivation à progresser.",
+            "Working with the game designers, I helped create the progression system called \"RnD\" (Research and Development). It lets players unlock new vehicles, drivers and upgrades, adding strategic depth and encouraging progression."
+          ]
+        },
+        {
+          "title": [
+            "Refonte de la boutique et des quêtes",
+            "Shop and quests redesign"
+          ],
+          "text": [
+            "J'ai participé au rework complet de l'interface utilisateur de la boutique et des quêtes, en repensant la structure et l'accessibilité de ces éléments. Cette refonte visait à rendre les fonctionnalités plus claires et à renforcer l'engagement des joueurs.",
+            "I contributed to a complete rework of the shop and quests interfaces, rethinking their structure and accessibility. The redesign aimed to make these features clearer and strengthen player engagement."
+          ]
+        },
+        {
+          "title": [
+            "Système d’autopilote",
+            "Autopilot system"
+          ],
+          "text": [
+            "J'ai implémenté un système d'autopilote destiné à aider les nouveaux joueurs dans leurs premières courses. Ce système offre une assistance intuitive, permettant aux joueurs de se familiariser progressivement avec les mécaniques de pilotage et de gagner en confiance.",
+            "I implemented an autopilot system to help new players during their first races. It provides intuitive assistance so players can gradually become familiar with the driving mechanics and build confidence."
+          ]
+        },
+        {
+          "title": [
+            "Résolution de bugs",
+            "Bug fixing"
+          ],
+          "text": [
+            "J'ai également collaboré avec l'équipe pour identifier et résoudre de nombreux bugs, améliorant ainsi la stabilité et la fluidité de l'expérience de jeu.",
+            "I also worked with the team to identify and fix numerous bugs, improving the stability and smoothness of the game experience."
+          ]
+        }
+      ],
+      "links": [],
+      "release_date": "2018-10-18",
+      "release_date_source": "https://www.codemasters.com/wp-content/uploads/2019/06/30904_Codemaster_AR18_Web.pdf — sortie initiale iOS ; contribution de Paul en 2023–2024 distincte.",
+      "card_image": "f1-mobile-racing-card",
+      "cover_image": "f1-mobile-racing-card",
+      "cover_background": "#c7cdd1",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/f1-mobile-racing.webp",
+          "en": "assets/images/f1-mobile-racing.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 25,
+          "zoom": 1.08
+        },
+        "alt": "F1 Mobile Racing"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/f1-mobile-racing.webp",
+          "en": "assets/images/f1-mobile-racing.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 25,
+          "zoom": 1.08
+        },
+        "alt": "F1 Mobile Racing"
+      },
+      "Description_Projet_Capsule": [
+        "Développement de fonctionnalités de gameplay sur le jeu mobile d’Electronic Arts.",
+        "Gameplay feature development for Electronic Arts’ mobile racing game."
+      ],
+      "Description_Projet_Carroussel": [
+        "Développement de fonctionnalités de gameplay sur le jeu mobile d’Electronic Arts.",
+        "Gameplay feature development for Electronic Arts’ mobile racing game."
+      ],
+      "company": [
+        "Smart Tale",
+        "Smart Tale"
+      ],
+      "card_title": [
+        "F1 Mobile Racing",
+        "F1 Mobile Racing"
+      ],
+      "conclusion": [
+        "Grâce à ces contributions, j’ai contribué à rendre F1 Mobile Racing plus accessible et stratégique, offrant aux joueurs un parcours de progression gratifiant pour une meilleure expérience globale.",
+        "Through these contributions, I helped make F1 Mobile Racing more accessible and strategic, giving players a rewarding progression path and a better overall experience."
+      ],
+      "video_url": "https://www.youtube.com/watch?v=GbRy8F3op8E",
+      "gallery": [
+        {
+          "src": "assets/images/f1-mobile-racing/race-start.webp",
+          "alt": [
+            "Départ de course avec les monoplaces de F1",
+            "Race start with Formula 1 cars"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/race-gameplay.webp",
+          "alt": [
+            "Vue à la troisième personne en pleine course",
+            "Third-person racing gameplay"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/cockpit.webp",
+          "alt": [
+            "Vue cockpit sur le circuit",
+            "Cockpit view on the circuit"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/season-finale.webp",
+          "alt": [
+            "Interface du jeu et événement Season Finale",
+            "Game interface and Season Finale event"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/ferrari.webp",
+          "alt": [
+            "Monoplace Ferrari sur la piste",
+            "Ferrari on the track"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/update-30.webp",
+          "alt": [
+            "Mise à jour 30 : Las Vegas et cinquième anniversaire",
+            "Update 30: Las Vegas and fifth anniversary"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/anniversary.webp",
+          "alt": [
+            "Événement du cinquième anniversaire",
+            "Fifth anniversary event"
+          ]
+        },
+        {
+          "src": "assets/images/f1-mobile-racing/garage.webp",
+          "alt": [
+            "Personnalisation de la monoplace dans le garage",
+            "Car customisation in the garage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "smurfs-kart",
+      "name": "Smurfs Kart",
+      "category": "jeux",
+      "image": "smurfs-kart",
+      "tag": [
+        "Jeux de course · Portage console & PC",
+        "Racing Games · Console & PC Porting"
+      ],
+      "summary": [
+        "Participation au portage du jeu sur Nintendo Switch, PlayStation, Xbox et Steam.",
+        "Contributed to porting the game to Nintendo Switch, PlayStation, Xbox and Steam."
+      ],
+      "role": [
+        "Gameplay Programmer",
+        "Gameplay Programmer"
+      ],
+      "context": [
+        "Projet réalisé avec Microids et Eden Games",
+        "Project created with Microids and Eden Games"
+      ],
+      "date": "2022–2023",
+      "intro": [
+        "Chez Smart Tale, j’ai participé au portage de Smurfs Kart sur Nintendo Switch, PlayStation, Xbox et Steam. Une expérience de développement sur plusieurs plateformes de jeu.",
+        "At Smart Tale, I contributed to porting Smurfs Kart to Nintendo Switch, PlayStation, Xbox and Steam, gaining experience in development across multiple gaming platforms."
+      ],
+      "sections": [],
+      "links": [],
+      "release_date": "2022-11-15",
+      "release_date_source": "https://www.microids.com/game-smurfs-kart/ — première sortie Switch ; portages 2023 distincts.",
+      "card_image": "smurfs-kart-card",
+      "cover_image": "smurfs-kart-card",
+      "cover_background": "#20b7b2",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/smurfs-kart.webp",
+          "en": "assets/images/smurfs-kart.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 65,
+          "zoom": 1.26
+        },
+        "alt": "Smurfs Kart"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/smurfs-kart.webp",
+          "en": "assets/images/smurfs-kart.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 70,
+          "zoom": 1.22
+        },
+        "alt": "Smurfs Kart"
+      },
+      "Description_Projet_Capsule": [
+        "Participation au portage du jeu sur Nintendo Switch, PlayStation, Xbox et Steam.",
+        "Contributed to porting the game to Nintendo Switch, PlayStation, Xbox and Steam."
+      ],
+      "Description_Projet_Carroussel": [
+        "Participation au portage du jeu sur Nintendo Switch, PlayStation, Xbox et Steam.",
+        "Contributed to porting the game to Nintendo Switch, PlayStation, Xbox and Steam."
+      ],
+      "company": [
+        "Smart Tale",
+        "Smart Tale"
+      ],
+      "card_title": [
+        "Smurfs Kart",
+        "Smurfs Kart"
+      ],
+      "detail_page": {
+        "overview": [
+          "Smurfs Kart est un jeu de courses développé par Eden Games et publié par Microids. Le jeu est sorti uniquement sur Switch le 15 novembre 2022. Puis la version HD est sortie sur PlayStation, PC et Xbox le 22 août 2023.",
+          "Smurfs Kart is a racing game developed by Eden Games and published by Microids. It was initially released exclusively on Switch on November 15, 2022. The HD version then launched on PlayStation, PC and Xbox on August 22, 2023."
+        ],
+        "overview_sections": [],
+        "role": [
+          "J'ai commencé le projet après la sortie sur Switch. Ma mission en tant que programmeur gameplay était d'adapter la version Switch sur les autres plateformes. J'ai participé aux portages de Smurfs Kart sur PlayStation 5, PlayStation 4, PC, Xbox One et Xbox Series X|S. Mes responsabilités comprenaient :",
+          "I joined the project after its Switch release. My role as a gameplay programmer was to adapt the Switch version for other platforms. I contributed to the ports of Smurfs Kart for PlayStation 5, PlayStation 4, PC, Xbox One and Xbox Series X|S. My responsibilities included:"
+        ],
+        "role_sections": [
+          [
+            [
+              "Adaptation technique",
+              "Technical adaptation"
+            ],
+            [
+              "J’ai travaillé sur l’adaptation du code source pour garantir la compatibilité et la fluidité du jeu sur chaque plateforme. La version Switch est en 32 FPS. Les autres consoles sont en 64 FPS en HD.",
+              "I worked on adapting the source code to ensure compatibility and smooth gameplay on each platform. The Switch version runs at 32 FPS. The other consoles run at 64 FPS in HD."
+            ]
+          ],
+          [
+            [
+              "Implémentation des succès",
+              "Achievement implementation"
+            ],
+            [
+              "La version Switch n'a pas de succès. La version HD de Smurfs Kart comprend une trentaine de succès que j'ai implémentés et adaptés aux différents stores : Steam, PlayStation Store et Windows Store.",
+              "The Switch version has no achievements. The HD version of Smurfs Kart includes around thirty achievements, which I implemented and adapted for Steam, PlayStation Store and Windows Store."
+            ]
+          ],
+          [
+            [
+              "Implémentation des leaderboards",
+              "Leaderboard implementation"
+            ],
+            [
+              "Le jeu possède un mode de jeu permettant de chronométrer son temps sur toutes les courses. Les joueurs peuvent partager en ligne leurs temps avec leurs amis et voir les meilleurs chronos.",
+              "The game features a time trial mode for every track. Players can share their times online with friends and view the fastest times."
+            ]
+          ],
+          [
+            [
+              "Patch correctif pour la version Switch",
+              "Bug-fix patch for the Switch version"
+            ],
+            [
+              "J'ai assuré le debug de la version Switch qui avait plusieurs bugs mineurs lors de sa sortie.",
+              "I debugged the Switch version, addressing several minor bugs present at launch."
+            ]
+          ]
+        ],
+        "role_sections_inline": true,
+        "role_separator": false,
+        "youtube_video": "eIcp6mV62P8",
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/smurfs-kart/gallery-01.jpg",
+          "assets/images/smurfs-kart/gallery-02.jpeg",
+          "assets/images/smurfs-kart/gallery-03.jpg",
+          "assets/images/smurfs-kart/gallery-04.jpg",
+          "assets/images/smurfs-kart/gallery-05.jpg",
+          "assets/images/smurfs-kart/gallery-06.jpg",
+          "assets/images/smurfs-kart/gallery-07.png",
+          "assets/images/smurfs-kart/gallery-08.jpg",
+          "assets/images/smurfs-kart/gallery-09.jpg"
+        ]
+      }
+    },
+    {
+      "id": "chumbi-valley",
+      "name": "Chumbi Valley",
+      "category": "jeux",
+      "image": "chumbi-valley",
+      "tag": [
+        "Producer · Smart Tale",
+        "Producer · Smart Tale"
+      ],
+      "summary": [
+        "Gestion de projet et encadrement d’une équipe de douze personnes.",
+        "Project management and supervision of a twelve-person team."
+      ],
+      "role": [
+        "Producer",
+        "Producer"
+      ],
+      "context": [
+        "Smart Tale · Expérience professionnelle",
+        "Smart Tale · Professional experience"
+      ],
+      "date": "2022–2024",
+      "intro": [
+        "Au sein de Smart Tale, j’ai assuré la gestion du projet Chumbi Valley et l’encadrement d’une équipe de douze personnes. Cette expérience nourrit aujourd’hui mes prestations de gestion de projet.",
+        "At Smart Tale, I managed the Chumbi Valley project and supervised a twelve-person team. This experience informs the project management services I offer today."
+      ],
+      "sections": [
+        [
+          [
+            "Gestion de la production",
+            "Production management"
+          ],
+          [
+            "Supervision de la planification globale du projet, établissement des délais et définition des objectifs avec les équipes de développement, d’art et de design.",
+            "Oversaw overall project planning, set deadlines and defined objectives with the development, art and design teams."
+          ]
+        ],
+        [
+          [
+            "Coordination des équipes",
+            "Team coordination"
+          ],
+          [
+            "Facilitation de la communication et de la collaboration entre les différentes équipes pour garantir que chacun progresse vers les mêmes objectifs et que les tâches prioritaires soient bien comprises.",
+            "Facilitated communication and collaboration between teams to ensure everyone worked towards the same goals and understood the priority tasks."
+          ]
+        ],
+        [
+          [
+            "Suivi du développement",
+            "Development tracking"
+          ],
+          [
+            "Assurer le suivi quotidien des avancées et anticiper les risques ou les obstacles pour les résoudre rapidement et éviter les retards.",
+            "Tracked progress daily and anticipated risks or obstacles so they could be resolved quickly and delays avoided."
+          ]
+        ],
+        [
+          [
+            "Relations client",
+            "Client relations"
+          ],
+          [
+            "Organiser des entretiens réguliers et des présentations d’avancement du jeu avec le client pour recueillir leur feedback et définir les objectifs en fonction de leurs besoins, notamment des impératifs marketing pour répondre de leur communauté.",
+            "Organised regular meetings and game progress presentations with the client to collect feedback and define objectives based on their needs, including marketing requirements to address their community."
+          ]
+        ]
+      ],
+      "links": [],
+      "release_date": null,
+      "release_date_source": "Date de sortie non documentée ; ne pas utiliser la période de contribution comme date de sortie.",
+      "cover_image": "chumbi-valley",
+      "cover_background": "#29473d",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/chumbi-valley.webp",
+          "en": "assets/images/chumbi-valley.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 30,
+          "zoom": 1.252
+        },
+        "alt": "Chumbi Valley"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/chumbi-valley.webp",
+          "en": "assets/images/chumbi-valley.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 20,
+          "zoom": 1.675
+        },
+        "alt": "Chumbi Valley"
+      },
+      "Description_Projet_Capsule": [
+        "Gestion de projet et encadrement d’une équipe de douze personnes.",
+        "Project management and supervision of a twelve-person team."
+      ],
+      "Description_Projet_Carroussel": [
+        "Gestion de projet et encadrement d’une équipe de douze personnes.",
+        "Project management and supervision of a twelve-person team."
+      ],
+      "company": [
+        "Smart Tale",
+        "Smart Tale"
+      ],
+      "detail_page": {
+        "overview": [
+          "Chumbi Valley est un projet professionnel sur lequel j’ai travaillé au sein de Smart Tale.",
+          "Chumbi Valley is a professional project I worked on at Smart Tale."
+        ],
+        "overview_sections": [],
+        "role": [
+          "En tant que producer sur Chumbi Valley, j’assurais la coordination et la gestion du projet pour assurer le bon déroulement de chaque étape de développement. Mon rôle incluait les aspects suivants :",
+          "As producer on Chumbi Valley, I coordinated and managed the project to keep each stage of development running smoothly. My role covered the following areas:"
+        ],
+        "role_sections": [
+          [
+            [
+              "Gestion de la production",
+              "Production management"
+            ],
+            [
+              "Supervision de la planification globale du projet, établissement des délais et définition des objectifs avec les équipes de développement, d’art et de design.",
+              "Oversaw overall project planning, set deadlines and defined objectives with the development, art and design teams."
+            ]
+          ],
+          [
+            [
+              "Coordination des équipes",
+              "Team coordination"
+            ],
+            [
+              "Facilitation de la communication et de la collaboration entre les différentes équipes pour garantir que chacun progresse vers les mêmes objectifs et que les tâches prioritaires soient bien comprises.",
+              "Facilitated communication and collaboration between teams to ensure everyone worked towards the same goals and understood the priority tasks."
+            ]
+          ],
+          [
+            [
+              "Suivi du développement",
+              "Development tracking"
+            ],
+            [
+              "Assurer le suivi quotidien des avancées et anticiper les risques ou les obstacles pour les résoudre rapidement et éviter les retards.",
+              "Tracked progress daily and anticipated risks or obstacles so they could be resolved quickly and delays avoided."
+            ]
+          ],
+          [
+            [
+              "Relations client",
+              "Client relations"
+            ],
+            [
+              "Organiser des entretiens réguliers et des présentations d’avancement du jeu avec le client pour recueillir leur feedback et définir les objectifs en fonction de leurs besoins, notamment des impératifs marketing pour répondre de leur communauté.",
+              "Organised regular meetings and game progress presentations with the client to collect feedback and define objectives based on their needs, including marketing requirements to address their community."
+            ]
+          ]
+        ],
+        "show_overview": false,
+        "show_gallery": false,
+        "role_sections_inline": true,
+        "role_separator": false,
+        "video_caption": [
+          "Gameplay en cours de développement (Novembre 2024)",
+          "Gameplay in development (November 2024)"
+        ],
+        "videos": [
+          {
+            "src": "assets/videos/chumbi-valley-gameplay.mp4",
+            "poster": "assets/images/chumbi-valley-gameplay-poster.webp",
+            "label": [
+              "Chumbi Valley — exploration",
+              "Chumbi Valley — exploration"
+            ],
+            "width": 1920,
+            "height": 1080
+          },
+          {
+            "src": "assets/videos/chumbi-valley-battle.mp4",
+            "poster": "assets/images/chumbi-valley-battle-poster.webp",
+            "label": [
+              "Chumbi Valley — équipe et combats",
+              "Chumbi Valley — party and battles"
+            ],
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "video_layout": "stacked"
+      }
+    },
+    {
+      "id": "obsidienne",
+      "name": "Obsidienne",
+      "category": "jeux",
+      "image": "obsidienne",
+      "tag": [
+        "Projet étudiant · Jeu d’action",
+        "Student project · Action game"
+      ],
+      "summary": [
+        "Un jeu d’action orienté speedrun : traverser les niveaux et trancher les obstacles.",
+        "A speedrun-focused action game: race through levels and slice through obstacles."
+      ],
+      "role": [
+        "Programmation & gestion de projet",
+        "Programming & project management"
+      ],
+      "context": [
+        "Projet étudiant · ICAN · 3e année",
+        "Student project · ICAN · Third year"
+      ],
+      "date": "2020",
+      "intro": [
+        "Obsidienne est un projet étudiant réalisé en équipe. Le jeu est pensé autour du speedrun et de la destruction des obstacles pour progresser dans les niveaux.",
+        "Obsidienne is a student team project. The game focuses on speedrunning and slicing obstacles to progress through its levels."
+      ],
+      "sections": [],
+      "links": [
+        [
+          "https://team-obsidienne.itch.io/obsidienne",
+          "Découvrir sur itch.io",
+          "View on itch.io"
+        ]
+      ],
+      "release_date": "2020-06-09",
+      "release_date_source": "Page itch.io sauvegardée : Published 09 June 2020.",
+      "cover_image": "obsidienne-featured",
+      "cover_background": "#211f20",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/obsidienne.webp",
+          "en": "assets/images/obsidienne.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.252
+        },
+        "alt": "Obsidienne"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/obsidienne.webp",
+          "en": "assets/images/obsidienne.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.675
+        },
+        "alt": "Obsidienne"
+      },
+      "Description_Projet_Capsule": [
+        "Un jeu d’action orienté speedrun : traverser les niveaux et trancher les obstacles.",
+        "A speedrun-focused action game: race through levels and slice through obstacles."
+      ],
+      "Description_Projet_Carroussel": [
+        "Un jeu d’action orienté speedrun : traverser les niveaux et trancher les obstacles.",
+        "A speedrun-focused action game: race through levels and slice through obstacles."
+      ],
+      "company": [
+        "Projet étudiant",
+        "Student project"
+      ],
+      "detail_page": {
+        "overview": [
+          "OBS|D|ENNE est un FPS mêlant plateforme et speedrun, développé en 2020 dans le cadre de notre projet de fin d'études à l'ICAN Paris.\n\nLe joueur incarne un personnage capable de trancher certains éléments du décor pour se frayer un chemin à travers des niveaux remplis d'obstacles. Cette mécanique, associée à des mouvements avancés, permet d'expérimenter différentes trajectoires pour terminer chaque parcours le plus rapidement possible.\n\nLe jeu propose sept niveaux, avec un système de classement et d'évaluation des performances qui encourage les joueurs à améliorer leurs temps.",
+          "OBS|D|ENNE is an FPS combining platforming and speedrunning, developed in 2020 as our graduation project at ICAN Paris.\n\nPlayers control a character who can slice through parts of the environment to make their way through obstacle-filled levels. Combined with advanced movement, this mechanic lets players experiment with different routes to complete each course as quickly as possible.\n\nThe game features seven levels, with rankings and performance ratings that encourage players to improve their times."
+        ],
+        "overview_sections": [],
+        "role": [
+          "J'ai travaillé comme Gameplay Programmer et participé à la gestion de production au sein d'une équipe de six personnes.\n\nJ'ai contribué au développement des mécaniques de gameplay et à leur intégration dans Unity, tout en participant à l'organisation du travail, à la répartition des tâches et au suivi de l'avancement du projet jusqu'à sa présentation de fin d'études.",
+          "I worked as a Gameplay Programmer and contributed to production management in a team of six.\n\nI contributed to developing gameplay mechanics and integrating them into Unity, while helping organise the work, assign tasks and track progress through to the final graduation presentation."
+        ],
+        "role_sections": [],
+        "role_separator": false,
+        "itch_url": "https://team-obsidienne.itch.io/obsidienne",
+        "youtube_video": "AaLG3Tkl3MA",
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/obsidienne/gallery-01.png",
+          "assets/images/obsidienne/gallery-02.png",
+          "assets/images/obsidienne/gallery-03.png",
+          "assets/images/obsidienne/gallery-04.png",
+          "assets/images/obsidienne/gallery-05.png",
+          "assets/images/obsidienne/gallery-06.png",
+          "assets/images/obsidienne/gallery-07.jpg",
+          "assets/images/obsidienne/gallery-08.jpg",
+          "assets/images/obsidienne/gallery-09.jpg"
+        ],
+        "cover_image": "assets/images/obsidienne/cover.png"
+      }
+    },
+    {
+      "id": "ecoweb",
+      "name": "EcoWeb",
+      "category": "logiciels",
+      "image": "ecoweb",
+      "tag": [
+        "Extension Chrome · Navigation web",
+        "Chrome extension · Web browsing"
+      ],
+      "summary": [
+        "Une extension Chrome pour masquer les aperçus IA, simplifier la recherche et refuser les cookies non essentiels.",
+        "A Chrome extension to hide AI overviews, simplify search and reject non-essential cookies."
+      ],
+      "role": [
+        "Développeur solo",
+        "Solo developer"
+      ],
+      "context": [
+        "Projet personnel",
+        "Personal project"
+      ],
+      "date": "2026",
+      "intro": [
+        "EcoWeb est une extension pour Chrome qui rassemble trois fonctions : masquer les aperçus IA dans les résultats de recherche, proposer un onglet Eco centré sur l’essentiel et refuser automatiquement les cookies non essentiels.",
+        "EcoWeb is a Chrome extension combining three features: hiding AI overviews in search results, offering an Eco tab focused on the essentials and automatically rejecting non-essential cookies."
+      ],
+      "sections": [
+        [
+          [
+            "Une navigation centrée sur l’essentiel",
+            "Browsing focused on the essentials"
+          ],
+          [
+            "Les trois fonctions sont regroupées dans une interface avec des interrupteurs distincts : blocage des aperçus IA, onglet Eco et refus des cookies. Chaque option peut être activée séparément.",
+            "The three features are grouped in an interface with separate switches for AI overview blocking, the Eco tab and cookie rejection. Each option can be enabled independently."
+          ]
+        ]
+      ],
+      "links": [],
+      "release_date": null,
+      "release_date_source": "Date de sortie non documentée ; ne pas utiliser la période de contribution comme date de sortie.",
+      "card_image": "ecoweb-card",
+      "chronology_priority": 1,
+      "date_source": "Paul confirme : réalisé en 2026, projet le plus récent.",
+      "cover_image": "ecoweb-card",
+      "cover_background": "#edf8f2",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/ecoweb.webp",
+          "en": "assets/images/ecoweb-en.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.01
+        },
+        "alt": "EcoWeb"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/ecoweb.webp",
+          "en": "assets/images/ecoweb-en.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 10,
+          "zoom": 1.1
+        },
+        "alt": "EcoWeb"
+      },
+      "Description_Projet_Capsule": [
+        "Une extension Chrome pour masquer les aperçus IA et limiter l'impact énergétique des recherches.",
+        "A Chrome extension to hide AI Overviews and reduce the energy impact of web searches."
+      ],
+      "Description_Projet_Carroussel": [
+        "Une extension Chrome pour masquer les aperçus IA et limiter l'impact énergétique des recherches.",
+        "A Chrome extension to hide AI Overviews and reduce the energy impact of web searches."
+      ],
+      "company": [
+        "Paul Blot",
+        "Paul Blot"
+      ],
+      "card_title": [
+        "EcoWeb",
+        "EcoWeb"
+      ],
+      "detail_page": {
+        "overview": [
+          "EcoWeb est une extension Chrome gratuite que j'ai créée pour rendre la navigation sur Google plus simple et plus légère.\n\nElle permet de masquer les résumés générés par l'IA dans les résultats de recherche, de refuser automatiquement les cookies non essentiels et de désactiver le préchargement des pages. L'objectif est de limiter les fonctionnalités superflues et de réduire les échanges de données inutiles.",
+          "EcoWeb is a free Chrome extension I created to make browsing Google simpler and lighter.\n\nIt lets users hide AI-generated summaries in search results, automatically reject non-essential cookies and disable page preloading. The aim is to cut out unnecessary features and reduce needless data transfers."
+        ],
+        "overview_sections": [],
+        "role": [
+          "J'ai développé EcoWeb entièrement en solo, de la conception à sa publication sur le Chrome Web Store.\n\nJ'ai choisi ce projet comme exercice pour apprendre à maîtriser le vibe coding, en m'appuyant sur l'IA pour développer une extension simple, utile et rapide à déployer. C'était aussi l'occasion d'expérimenter une nouvelle façon de travailler et de découvrir ses avantages et ses limites.",
+          "I developed EcoWeb entirely on my own, from design through to publication on the Chrome Web Store.\n\nI chose this project as an exercise to learn vibe coding, using AI to develop a simple, useful extension that could be deployed quickly. It was also an opportunity to experiment with a new way of working and explore its benefits and limitations."
+        ],
+        "role_sections": [],
+        "show_gallery": false,
+        "role_separator": false,
+        "inline_image": "ecoweb-card.webp",
+        "inline_image_position": "before_role",
+        "inline_image_max_width": 660,
+        "chrome_web_store_url": "https://chromewebstore.google.com/detail/ecoweb/ejdpgbneckfmjoaenkiinoacjjmgfdbi"
+      }
+    },
+    {
+      "id": "derez-disc",
+      "name": "Derez Disc",
+      "category": "jeux",
+      "image": "derez-disc",
+      "tag": [
+        "Projet étudiant · PC / VR",
+        "Student project · PC / VR"
+      ],
+      "summary": [
+        "Lancer des disques lumineux dans un jeu d’action arcade, sur PC et en réalité virtuelle.",
+        "Throw glowing discs in an arcade action game for PC and virtual reality."
+      ],
+      "role": [
+        "Chef d’équipe",
+        "Team leader"
+      ],
+      "context": [
+        "Master Gaming & Smart Tech · ESIEE-IT",
+        "Gaming & Smart Tech Master’s · ESIEE-IT"
+      ],
+      "date": "2021–2022",
+      "intro": [
+        "Derez Disc est un prototype étudiant réalisé dans le cadre du Master Gaming & Smart Tech de l’ESIEE-IT. Le joueur lance des disques sur des cibles dans un univers rétro et néon, à la première personne.",
+        "Derez Disc is a student prototype created during the Gaming & Smart Tech Master’s at ESIEE-IT. Players throw discs at targets in a retro, neon-lit first-person world."
+      ],
+      "sections": [
+        [
+          [
+            "Un même principe, deux façons de jouer",
+            "One concept, two ways to play"
+          ],
+          [
+            "Sur PC, le lancer s’effectue à la souris. En VR, il s’appuie sur le geste de la main. La conception prend en compte le confort en réalité virtuelle en limitant les déplacements forcés du joueur.",
+            "On PC, discs are thrown with the mouse. In VR, throws use hand movement. The design considers VR comfort by limiting forced player movement."
+          ]
+        ]
+      ],
+      "links": [
+        [
+          "https://esiee-it-gaming.itch.io/2022-derez-disc",
+          "Découvrir sur itch.io",
+          "View on itch.io"
+        ]
+      ],
+      "release_date": "2021-11-10",
+      "release_date_source": "Page itch.io sauvegardée : Published 10 November 2021.",
+      "cover_image": "derez-disc",
+      "cover_background": "#161a19",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/derez-disc.webp",
+          "en": "assets/images/derez-disc.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.113
+        },
+        "alt": "Derez Disc"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/derez-disc.webp",
+          "en": "assets/images/derez-disc.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 10,
+          "zoom": 1.203
+        },
+        "alt": "Derez Disc"
+      },
+      "Description_Projet_Capsule": [
+        "Lancer des disques lumineux dans un jeu d’action arcade, sur PC et en réalité virtuelle.",
+        "Throw glowing discs in an arcade action game for PC and virtual reality."
+      ],
+      "Description_Projet_Carroussel": [
+        "Lancer des disques lumineux dans un jeu d’action arcade, sur PC et en réalité virtuelle.",
+        "Throw glowing discs in an arcade action game for PC and virtual reality."
+      ],
+      "company": [
+        "ESIEE-IT",
+        "ESIEE-IT"
+      ],
+      "detail_page": {
+        "overview": [
+          "Derez Disc est un jeu d'action et d'arcade à la première personne, réalisé dans le cadre du Master Gaming & Smart Tech de l'ESIEE IT.\n\nInspiré des univers rétrofuturistes, le jeu plonge le joueur dans une arène aux couleurs néon où il doit lancer des disques lumineux pour détruire des cibles en mouvement.\n\nJouable sur PC et en réalité virtuelle, le prototype propose un mode Arcade et un mode Versus permettant d'affronter un adversaire contrôlé par l'ordinateur.",
+          "Derez Disc is a first-person action and arcade game created as part of the Gaming & Smart Tech Master’s programme at ESIEE IT.\n\nInspired by retrofuturistic worlds, the game immerses players in a neon arena where they throw glowing discs to destroy moving targets.\n\nPlayable on PC and in virtual reality, the prototype features an Arcade mode and a Versus mode in which players face a computer-controlled opponent."
+        ],
+        "overview_sections": [],
+        "role": [
+          "J'ai occupé le poste de Lead Developer et de chef de projet au sein d'une équipe de quatre personnes.\n\nEn plus de participer à la conception des mécaniques de gameplay et à leur développement, j'étais chargé d'organiser le travail de l'équipe, de répartir les tâches et de suivre l'avancement du projet.",
+          "I served as Lead Developer and project manager in a team of four.\n\nAlongside contributing to the design and development of gameplay mechanics, I was responsible for organising the team’s work, assigning tasks and tracking the project’s progress."
+        ],
+        "role_sections": [],
+        "youtube_video": "DUPkoJ2kzfc",
+        "role_separator": false,
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/derez-disc/gallery-01.png",
+          "assets/images/derez-disc/gallery-02.png",
+          "assets/images/derez-disc/gallery-03.png",
+          "assets/images/derez-disc/gallery-04.png",
+          "assets/images/derez-disc/gallery-05.png",
+          "assets/images/derez-disc/gallery-06.png"
+        ]
+      }
+    },
+    {
+      "id": "equilibre",
+      "name": "Équilibre",
+      "category": "jeux",
+      "image": "equilibre",
+      "tag": [
+        "Game jam · Vivatech 2022",
+        "Game jam · Vivatech 2022"
+      ],
+      "summary": [
+        "Modifier un environnement pour faire cohabiter les humains et la nature.",
+        "Change an environment to balance human life and nature."
+      ],
+      "role": [
+        "Lead Developer · Chef d’équipe",
+        "Lead Developer · Team leader"
+      ],
+      "context": [
+        "Game jam · Vivatech",
+        "Game jam · Vivatech"
+      ],
+      "date": "2022",
+      "intro": [
+        "Équilibre est un projet de game jam présenté à Vivatech en 2022. Son principe : utiliser des technologies futuristes pour modifier un environnement et rechercher un équilibre entre les humains et la nature.",
+        "Équilibre is a game jam project presented at Vivatech in 2022. Its premise is to use futuristic technology to change an environment and seek a balance between humans and nature."
+      ],
+      "sections": [],
+      "links": [
+        [
+          "https://polobuilder.itch.io/",
+          "Voir mes jeux sur itch.io",
+          "See my games on itch.io"
+        ]
+      ],
+      "release_date": "2022",
+      "release_date_source": "Portfolio Behance fourni : GameJam Vivatech 2022.",
+      "cover_image": "equilibre",
+      "cover_background": "#477fdf",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/equilibre.webp",
+          "en": "assets/images/equilibre.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 95,
+          "zoom": 1.252
+        },
+        "alt": "Équilibre"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/equilibre.webp",
+          "en": "assets/images/equilibre.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 100,
+          "zoom": 1.6
+        },
+        "alt": "Équilibre"
+      },
+      "Description_Projet_Capsule": [
+        "Modifier un environnement pour faire cohabiter les humains et la nature.",
+        "Change an environment to balance human life and nature."
+      ],
+      "Description_Projet_Carroussel": [
+        "Modifier un environnement pour faire cohabiter les humains et la nature.",
+        "Change an environment to balance human life and nature."
+      ],
+      "company": [
+        "VivaTech",
+        "VivaTech"
+      ],
+      "detail_page": {
+        "overview": [
+          "Équilibre est un jeu de puzzle et de gestion relaxant, développé à l'occasion de la Game Jam Viva Technology 2022.\n\nLe joueur utilise des technologies futuristes pour transformer un environnement, planter des arbres, construire des villes et développer la faune. Chaque action peut avoir des conséquences inattendues, et le défi consiste à trouver le bon équilibre entre les humains et la nature.\n\nLe projet a remporté le prix Coup de cœur du jury lors de la Game Jam. Nous avons ensuite poursuivi son développement pendant deux mois afin de présenter une version jouable au salon Viva Technology 2022.",
+          "Équilibre is a relaxing puzzle and management game developed for the Viva Technology 2022 Game Jam.\n\nPlayers use futuristic technologies to transform an environment, plant trees, build cities and develop wildlife. Every action can have unexpected consequences, and the challenge is to find the right balance between humans and nature.\n\nThe project won the Jury’s Favourite Award at the Game Jam. We then continued development for two months to present a playable version at Viva Technology 2022."
+        ],
+        "overview_sections": [],
+        "role": [
+          "J'ai occupé les rôles de Lead Developer et de chef d'équipe sur ce projet.\n\nJ'ai participé à la conception et au développement du gameplay, tout en assurant la coordination de l'équipe, la répartition des tâches et le suivi de la production jusqu'à la présentation du jeu à Viva Technology.",
+          "I served as Lead Developer and team leader on this project.\n\nI contributed to gameplay design and development while coordinating the team, assigning tasks and tracking production through to the game’s presentation at Viva Technology."
+        ],
+        "role_sections": [],
+        "role_separator": false,
+        "origins": [
+          "Équilibre est le prototype à l'origine de Hex Harmony, mon premier jeu indépendant développé entièrement en solo.\n\nJ'ai repris le concept imaginé pendant la Game Jam pour en faire un jeu plus complet, avec de nouvelles mécaniques, une progression par niveaux et un univers retravaillé. L'idée de départ reste la même : trouver un équilibre entre la nature et les humains grâce aux technologies.",
+          "Équilibre is the prototype that led to Hex Harmony, my first independent game developed entirely on my own.\n\nI built on the concept created during the Game Jam to make a more complete game, with new mechanics, level-based progression and a reworked world. The original idea remains the same: finding a balance between nature and humans through technology."
+        ],
+        "itch_url": "https://polobuilder.itch.io/equilibre",
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/equilibre/gallery-01.png",
+          "assets/images/equilibre/gallery-02.png",
+          "assets/images/equilibre/gallery-03.png",
+          "assets/images/equilibre/gallery-04.png"
+        ]
+      },
+      "chronology_priority": 1
+    },
+    {
+      "id": "mystic-mask",
+      "name": "Mystic Mask",
+      "category": "jeux",
+      "image": "mystic-mask",
+      "tag": [
+        "Projet étudiant · Versus fighting",
+        "Student project · Fighting game"
+      ],
+      "summary": [
+        "Un duel à deux joueurs, avec deux avatars en miroir à contrôler de chaque côté.",
+        "A two-player duel with mirrored characters on each side."
+      ],
+      "role": [
+        "Graphisme · Animation · Sound design · Tests",
+        "Art · Animation · Sound design · Testing"
+      ],
+      "context": [
+        "Projet étudiant · ICAN · 1re année",
+        "Student project · ICAN · First year"
+      ],
+      "date": "2018",
+      "intro": [
+        "Mystic Mask est un jeu de combat en un contre un, créé avec Guillaume Montella, Maxime Lopes et Stéphane Villagordo. Chaque joueur contrôle deux avatars en miroir. Toucher l’un des avatars adverses permet de remporter le duel.",
+        "Mystic Mask is a one-on-one fighting game created with Guillaume Montella, Maxime Lopes and Stéphane Villagordo. Each player controls two mirrored characters. Defeating an opponent’s character wins the duel."
+      ],
+      "sections": [],
+      "links": [
+        [
+          "https://polobuilder.itch.io/",
+          "Retrouver le jeu sur mon profil itch.io",
+          "Find the game on my itch.io profile"
+        ]
+      ],
+      "release_date": "2018-10-25",
+      "release_date_source": "Page itch.io sauvegardée : Published 25 October 2018.",
+      "cover_image": "mystic-mask-cover",
+      "cover_background": "#30200f",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/mystic-mask-cover.jpg",
+          "en": "assets/images/mystic-mask-cover.jpg"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1.14
+        },
+        "alt": "Mystic Mask"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/mystic-mask-cover.jpg",
+          "en": "assets/images/mystic-mask-cover.jpg"
+        },
+        "frame": {
+          "x": 50,
+          "y": 50,
+          "zoom": 1
+        },
+        "alt": "Mystic Mask"
+      },
+      "Description_Projet_Capsule": [
+        "Un duel à deux joueurs, avec deux avatars en miroir à contrôler de chaque côté.",
+        "A two-player duel with mirrored characters on each side."
+      ],
+      "Description_Projet_Carroussel": [
+        "Un duel à deux joueurs, avec deux avatars en miroir à contrôler de chaque côté.",
+        "A two-player duel with mirrored characters on each side."
+      ],
+      "company": [
+        "ICAN",
+        "ICAN"
+      ],
+      "detail_page": {
+        "overview": [
+          "Mystic Mask est un jeu de Versus Fighting. Chaque joueur contrôle en même temps un guerrier massai et son reflet dans le monde spirituel. L'objectif est de faire un dash sur au moins l'une des deux entités que contrôle son adversaire.\n\nUn seul coup suffit pour gagner une manche. Le joueur devra faire très attention à la fois aux déplacements de son guerrier et de son reflet.",
+          "Mystic Mask is a versus fighting game. Each player simultaneously controls a Maasai warrior and their reflection in the spirit world. The goal is to dash into at least one of the two entities controlled by the opponent.\n\nA single hit is enough to win a round. Players must pay close attention to the movements of both their warrior and their reflection."
+        ],
+        "overview_sections": [],
+        "role": [
+          "C'est le premier jeu vidéo que j'ai réalisé en équipe. J'ai beaucoup appris au sujet de la gestion de projet et de management d'une équipe.\n\nJ'ai dû apprendre à maîtriser le logiciel Illustrator pour faire les graphismes du jeu : les animations des personnages, le décor du jeu et son interface. J'ai fait le sound design du jeu. J'ai dû bricoler en peu de temps des sons trouvés, identifier les événements sonores du jeu et mixer l'ensemble pour l'intégrer au jeu.",
+          "This was the first video game I made as part of a team. I learned a lot about project management and managing a team.\n\nI had to learn Illustrator to create the game’s graphics: character animations, backgrounds and interface. I also handled the sound design. With limited time, I had to adapt existing sounds, identify the game’s sound events and mix everything for integration into the game."
+        ],
+        "role_sections": [],
+        "role_separator": false,
+        "context_text": [
+          "Mystic Mask est un projet étudiant fait à l'ICAN en première année lors du deuxième semestre. En groupe de quatre, nous devions faire un jeu de Versus Fighting sur Construct2. Ce logiciel n'a pas été enseigné en cours, l'un des objectifs de ce devoir était de nous apprendre à nous adapter à un moteur pour nous rendre autonome.",
+          "Mystic Mask is a student project created during the second semester of our first year at ICAN. In a team of four, we had to create a versus fighting game in Construct2. This software was not taught in class: one of the assignment’s goals was to teach us to adapt to an unfamiliar engine and work independently."
+        ],
+        "team": [
+          {
+            "name": [
+              "Blot Paul (Moi)",
+              "Blot Paul (Me)"
+            ],
+            "role": [
+              "Graphiste + Animation + Sound Designer + Testeur",
+              "Artist + Animation + Sound Designer + Tester"
+            ]
+          },
+          {
+            "name": [
+              "Villagordo Stephane",
+              "Villagordo Stephane"
+            ],
+            "role": [
+              "Sound Designer + Game Designer",
+              "Sound Designer + Game Designer"
+            ]
+          },
+          {
+            "name": [
+              "Lopes Maxime",
+              "Lopes Maxime"
+            ],
+            "role": [
+              "Graphiste + Animation + Game Designer",
+              "Artist + Animation + Game Designer"
+            ]
+          },
+          {
+            "name": [
+              "Montella Guillaume",
+              "Montella Guillaume"
+            ],
+            "role": [
+              "Programmeur + Game designer",
+              "Programmer + Game Designer"
+            ]
+          }
+        ],
+        "itch_url": "https://tellomnax.itch.io/mystick-mask",
+        "youtube_video": "Jx75L2jfhtw",
+        "document_image": "assets/images/mystic-mask/one-page.png",
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/mystic-mask/gallery-01.png",
+          "assets/images/mystic-mask/gallery-02.png",
+          "assets/images/mystic-mask/gallery-03.png"
+        ]
+      },
+      "cover_sources": {
+        "fr": "assets/images/mystic-mask-cover.jpg",
+        "en": "assets/images/mystic-mask-cover.jpg"
+      }
+    },
+    {
+      "id": "chicagos-night",
+      "name": "Chicago’s Night",
+      "category": "autres",
+      "image": "chicagos-night",
+      "tag": [
+        "Game design · Jeu de plateau",
+        "Game design · Board game"
+      ],
+      "summary": [
+        "Un jeu de contrôle de territoire pour deux joueurs, dans les quartiers de Chicago.",
+        "A two-player territory-control board game set in Chicago."
+      ],
+      "role": [
+        "Co-créateur · Game design",
+        "Co-creator · Game design"
+      ],
+      "context": [
+        "Projet étudiant · ICAN · 1re année",
+        "Student project · ICAN · First year"
+      ],
+      "date": "2017–2018",
+      "intro": [
+        "Créé avec Floran Mauguin et Raphaël Faure à l’ICAN, Chicago’s Night est un jeu de plateau pour deux joueurs. Le but est de contrôler six bâtiments différents avant son adversaire.",
+        "Created with Floran Mauguin and Raphaël Faure at ICAN, Chicago’s Night is a two-player board game. The goal is to control six different buildings before your opponent."
+      ],
+      "sections": [
+        [
+          [
+            "Des actions simples, des choix tactiques",
+            "Simple actions, tactical decisions"
+          ],
+          [
+            "Recruter, prendre position ou faire intervenir la police : chaque tour permet deux actions. Les bâtiments contrôlés déclenchent des effets qui modifient les possibilités du plateau.",
+            "Recruit, take a position or call in the police: each turn allows two actions. Controlled buildings trigger effects that change the options on the board."
+          ]
+        ]
+      ],
+      "links": [],
+      "release_date": null,
+      "release_date_source": "Date de sortie non documentée ; ne pas utiliser la période de contribution comme date de sortie.",
+      "cover_image": "chicagos-night",
+      "cover_background": "#000000",
+      "Image_Projet_Capsule": {
+        "sources": {
+          "fr": "assets/images/chicagos-night.webp",
+          "en": "assets/images/chicagos-night.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 0,
+          "zoom": 1.08
+        },
+        "alt": "Chicago’s Night"
+      },
+      "Image_Projet_Carroussel": {
+        "sources": {
+          "fr": "assets/images/chicagos-night.webp",
+          "en": "assets/images/chicagos-night.webp"
+        },
+        "frame": {
+          "x": 50,
+          "y": 0,
+          "zoom": 1.12
+        },
+        "alt": "Chicago’s Night"
+      },
+      "Description_Projet_Capsule": [
+        "Un jeu de contrôle de territoire pour deux joueurs, dans les quartiers de Chicago.",
+        "A two-player territory-control board game set in Chicago."
+      ],
+      "Description_Projet_Carroussel": [
+        "Un jeu de contrôle de territoire pour deux joueurs, dans les quartiers de Chicago.",
+        "A two-player territory-control board game set in Chicago."
+      ],
+      "company": [
+        "ICAN",
+        "ICAN"
+      ],
+      "detail_page": {
+        "overview": [
+          "Dans les années 20, deux gangs vont s'affronter dans les rues de Chicago. Ils vont devoir placer leurs sbires pour prendre le contrôle des bâtiments de la ville. Mais attention à la police, leurs interventions peuvent provoquer des retournements de situation et des réactions en chaîne.\n\nChicago's night est un jeu de stratégie à deux joueurs. Une partie dure de 10 à 20 minutes. L'objectif est d'être le premier joueur à prendre le contrôle de 6 bâtiments.",
+          "In the 1920s, two gangs clash in the streets of Chicago. They must position their henchmen to take control of the city’s buildings. But watch out for the police: their interventions can trigger sudden reversals and chain reactions.\n\nChicago’s Night is a strategy game for two players. A game lasts 10 to 20 minutes. The goal is to be the first player to control 6 buildings."
+        ],
+        "overview_sections": [],
+        "role": [
+          "Chicago's night est mon premier projet de groupe de ma formation à l'ICAN. On devait choisir un ancien jeu de société et réinventer un jeu avec l'ancien matériel. Nous avons choisi le jeu des 12 caractères, un ancêtre romain du Backgammon. J'y ai appris à présenter efficacement mon travail à un public.",
+          "Chicago’s Night was my first group project during my studies at ICAN. We had to choose an old board game and reinvent a game using its original components. We chose the game of twelve lines, a Roman ancestor of backgammon. I learned how to present my work effectively to an audience."
+        ],
+        "role_sections": [],
+        "role_separator": false,
+        "team": [
+          "Blot Paul",
+          "Mauguin Floran",
+          "Raphaël Faure"
+        ],
+        "cover_image": "assets/images/chicagos-night/board-cover.png",
+        "show_gallery": true,
+        "gallery_images": [
+          "assets/images/chicagos-night/gallery-01.png",
+          "assets/images/chicagos-night/gallery-02.png"
+        ]
+      }
+    }
+  ],
+  "featured_ids": [
+    "hex-harmony",
+    "polo-builder",
+    "need-for-touring"
+  ],
+  "carousel_interval_ms": 15000,
+  "image_variants": {
+    "ecoweb": "ecoweb-en",
+    "ecoweb-card": "ecoweb-card-en"
+  },
+  "carousel_ids": [
+    "hex-harmony",
+    "f1-mobile-racing",
+    "smurfs-kart",
+    "need-for-touring",
+    "obsidienne"
+  ]
+}
